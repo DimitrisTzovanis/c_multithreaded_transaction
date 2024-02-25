@@ -1,0 +1,17 @@
+#define ntel 3
+#define ncash 2
+#define nseat 10
+#define nzone_a 10
+#define nzone_b 20
+#define pzone_a 30
+#define czone_a 30
+#define czone_b 20
+#define nseatlow 1
+#define nseathigh 5
+#define treslow 1
+#define treshigh 5
+#define tseatlow 5
+#define tseathigh 13
+#define tcashlow 4
+#define tcashhigh 8
+#define pcardsucces 90
