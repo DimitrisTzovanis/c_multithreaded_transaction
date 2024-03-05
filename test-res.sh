@@ -1,4 +1,4 @@
 #!/bin/bash
-gcc p3200195-p3200277-p3200057-res.c -o p3200195-p3200277-p3200057-res -pthread
-/Users/dimitris/Desktop/p3200195-p3200277-p3200057-res/p3200195-p3200277-p3200057-res 100 1000
+gcc transaction.c -o transaction-res -pthread
+/Users/dimitris/Desktop/transaction-res 100 1000
 
